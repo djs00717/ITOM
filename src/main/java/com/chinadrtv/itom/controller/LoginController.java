@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  * User: liuhaidong
  * Date: 2017-11-20
  */
-@Controller(value = "loginControl")
+@Controller(value = "/")
 public class LoginController {
     Logger log = LogManager.getLogger(LoginController.class);
 

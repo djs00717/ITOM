@@ -3,7 +3,6 @@ package com.chinadrtv.itom.dao.impl;
 import com.chinadrtv.itom.dao.UserInfoDao;
 import com.chinadrtv.itom.model.UserInfo;
 import org.hibernate.Session;
-import org.hibernate.query.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

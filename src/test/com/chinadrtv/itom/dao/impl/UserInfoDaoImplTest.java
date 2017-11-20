@@ -7,7 +7,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-import static com.chinadrtv.itom.dao.hibernate.HibernateSessionFactory.getSession;
 
 /**
  * Created by djs on 2017/11/14.
