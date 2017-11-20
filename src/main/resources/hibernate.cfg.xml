@@ -16,5 +16,6 @@
 		<!--生成数据表策略-->
 		<property name="hibernate.hbm2ddl.auto">update</property>
 
+		<mapping class="com.chinadrtv.itom.model.UserInfo"/>
 	</session-factory>
 </hibernate-configuration>
